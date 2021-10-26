@@ -1,6 +1,7 @@
 nav ul {
     display: inline-block;
     list-style-type: none;
+    background-color: red;
 }
 
 nav ul li {
